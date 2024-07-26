@@ -1,0 +1,38 @@
+body
+
+{
+
+    background-color:skyblue, aqua;
+
+    background-image:radial-gradient(blue, white);
+
+    background-image:-o-repeating-linear-gradient(green, red);
+  
+    background-image: url ("people smiling");
+    background-repeat: space;
+    
+
+      padding: 1.25em 10em;
+        text-decoration: dashed;
+        background-color: black;
+        color:blue;
+        border: 5px solid blueviolet;
+        border-top-left-radius: 1em 1em;
+        border-top-right-radius: 1em 1em;
+    }
+
+    footer
+    {
+      background-color: black;
+    }
+    
+    p
+    {
+        text-align: initial;
+        font-size: 20px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        font-weight bolder;
+        color: white;
+        text-decoration:wavy;
+        text-decoration-color:red ;
+    }
